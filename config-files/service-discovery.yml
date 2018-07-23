@@ -1,2 +1,4 @@
 ---
-server.port: 8761
+profiles: dsv
+server:
+  port: 8761
