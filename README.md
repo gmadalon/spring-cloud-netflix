@@ -13,3 +13,5 @@ You can call http://localhost:8761 in browser to see eureka console
 Import the project service-discovery and start. The api gateway will start in 9090 port.
 You can call http://localhost:8761 in browser to see eureka console, now there are 2 services in Eureka, service-discovery and api-gateway
 
+
+TESTE RAPOSO
